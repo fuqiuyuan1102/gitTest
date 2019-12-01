@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "368e0094cefb12e5cd4ba00b6787e1a2d56301a66f3e9815d0e9a902c043e54f",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "e0a28ee20f04e157f1903ea4c3d88a22",
+                "configURIPath": "file:///d%3A/projectSpace/Springboot-test/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
